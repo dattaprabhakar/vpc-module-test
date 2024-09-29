@@ -10,7 +10,7 @@ terraform {
     bucket = "prabha-state-dev"
     key    = "expense-vpc"
     region = "us-east-1"
-    dynamodb_table = "lock-dev"
+    dynamodb_table = "lock-dev12"
   }
 }
 
